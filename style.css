@@ -1,5 +1,21 @@
+.noto-serif jp-regular {
+    font-family: "Noto Serif JP", serif;
+    font-weight: 400;
+    font-style: normal;
+  }  
+
 h1{
     color:white;
+}
+h1.pagetitle{
+    color:red;
+}
+h2.items{
+    color: red;
+}
+.itempictures{
+    height: 100px;
+    width: 100px;
 }
 #red{
     color:red;
@@ -43,4 +59,6 @@ img{
 *{
  text-align: center;
  background-color: black;
+ font-family: "Noto Serif JP", serif;
+ 
 }
